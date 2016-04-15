@@ -1,0 +1,52 @@
+#header {
+	width: 80%;
+	height: 100px;
+	background-color: aqua;
+	margin: 0 auto;
+	-moz-text-align-last: center;
+	text-align-last: center;
+}
+
+.main {
+	width: 80%;
+	height: 500px;
+	margin: 20px auto;
+	background-color: brown;
+}
+
+#menu {
+	width: 25%;
+	height: 460px;
+	margin: 20px;
+	display: block;
+	float: left;
+	background-color: aliceblue;
+}
+
+#content {
+	width: 70%;
+	height: 460px;
+	margin-top: 20px;
+	background-color: antiquewhite;
+	display: block;
+	float: left;
+}
+
+#content > article > section {
+	width: 95%;
+	height: 200px;
+	background-color: aquamarine;
+	margin: 10px 20px 10px 20px;
+}
+
+h2 {
+	height: 30px;
+	font-size: 30px;
+}
+
+#footer {
+	height: 100px;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
