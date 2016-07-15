@@ -1,0 +1,9 @@
+@cherset "UTF-8";
+bo
+body,
+html, {
+	width: 100%;
+	box-sizing: border-box;
+	font-family: "07LogoTypeGothic7";
+	font-size: 62.5%;
+}
